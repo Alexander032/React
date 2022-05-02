@@ -33,7 +33,7 @@ function App() {
               <div style={{ color: 'bisque'}}>
                 {item.title}
               </div>
-              <div style={{ color: 'black'}}>
+              <div style={{ color: 'black', marginTop: '10px'}}>
                 {item.author}
               </div>
             </div>
