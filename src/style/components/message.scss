@@ -1,0 +1,13 @@
+.message-list {
+    &__item {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 16px;
+    }
+
+    &__p {
+        font-size: 13px;
+        color: #858585;
+        margin: 0 0 8px 0;
+    }
+}
